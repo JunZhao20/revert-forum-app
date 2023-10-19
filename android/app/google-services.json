@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1060741519784",
+    "project_id": "revertapp-2db14",
+    "storage_bucket": "revertapp-2db14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060741519784:android:79b26311f5707d7b07a59d",
+        "android_client_info": {
+          "package_name": "com.mycompany.revertapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060741519784-qtpla5lqj7b0migprh4d5i13cl2obl3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgoS1ewF3pjQ7mkC4hmMtNFzxnQKoARfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060741519784-qtpla5lqj7b0migprh4d5i13cl2obl3f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1060741519784-rag9n2k2ecs0k8epds3h2vtu3utk6527.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.revertapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
